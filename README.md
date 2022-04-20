@@ -1,4 +1,4 @@
-<font size="20"> Gebruiker </font>
+#Gebruiker
 
 Sophie ten Dam
 scdam
